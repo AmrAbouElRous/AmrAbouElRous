@@ -59,6 +59,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/amrabouelrous]([https://www.linkedin.com/in/amrabouelrous](https://www.linkedin.com/in/amr-aboelros/))  
-- 📧 Email: *[msylhy3@gmail.com]*
+💼 LinkedIn: linkedin.com/in/amr-aboelros
+
+📧 Email: msylhy3@gmail.com
 
