@@ -18,7 +18,6 @@
 - 🎖️ **Fortinet NSE 4** — Network Security Professional
 - 🎖️ **eCIR** — eLearnSecurity Certified Incident Responder
 - ✅ TryHackMe **SOC Level 1** Path — Completed
-- ✅ Cisco **CyberOps Associate** — Exam Prep Completed
 
 ---
 
