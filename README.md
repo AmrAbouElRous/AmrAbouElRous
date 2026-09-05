@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Amr AbouElRous
 🎓 **Computer and Information Technology (IT)** graduate — GPA: **3.51**  
-🛡️ Cybersecurity Associate Intern @ ITI | eCIR & NSE 4 Certified
+🛡️ Cybersecurity Associate Intern @ ITI | eCIR & NSE 4 Certified  
 🚀 Built hands-on skills in threat detection, log analysis & DFIR — actively seeking SOC roles
 
 ---
