@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Amr AbouElRous
 🎓 **Computer and Information Technology (IT)** graduate — GPA: **3.51**  
-🛡️ Aspiring **SOC Analyst (Tier 1)** with hands-on experience in log analysis, threat detection, and incident response.  
-🚀 Actively seeking SOC Analyst opportunities — ready to help defend your organization's environment!
+🛡️ Cybersecurity Associate Intern @ ITI | eCIR & NSE 4 Certified
+🎯 Turning hands-on SOC lab work (Splunk, Wazuh, DFIR) into a Tier 1 Analyst role
 
 ---
 
